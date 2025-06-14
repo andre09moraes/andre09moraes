@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou André Moraes</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
+<h1 align="left">Olá 👋, sou André Moraes</h1>
+<h3 align="left">Um desenvolvedor frontend apaixonado do Brasil</h3>
 
 - 🌱 Atualmente estou aprendendo **Análise de sistemas**
 
