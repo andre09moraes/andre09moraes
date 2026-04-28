@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["JavaScript", "TypeScript"];
-  bibliotecas = ["appStack","Zod","Socket.io"];
+  bibliotecas = ["appStack","Zod","Socket.io","Prisma"];
   frameworks = ["React","Fastify"];
 }
 ```
