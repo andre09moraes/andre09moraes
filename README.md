@@ -8,7 +8,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages = ["JavaScript", "TypeScript"];
+  languages = ["JavaScript","TypeScript","Swift"];
   libraries = ["React","appStack","Zod","Socket.io","Prisma"];
   frameworks = ["Fastify","Bootstrap","Tailwind CSS"];
   orm = ["Prisma"];
