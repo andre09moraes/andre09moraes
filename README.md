@@ -1,15 +1,17 @@
 ```js
-import Desenvolvedor from "andre09moraes";
+import Developer from "andre09moraes";
 
-class SobreMim extends Desenvolvedor {
-  nome = "André Moraes";
-  area = "Desenvolvedor Front-End";
-  trabalho = "Greco & Guuerreiro Ltda";
+class AboutMe extends Developer {
+  name = "André Moraes";
+  role = "Front-End Developer";
+  company = "Greco & Guuerreiro Ltda";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["JavaScript", "TypeScript"];
-  bibliotecas = ["appStack","Zod","Socket.io","Prisma"];
-  frameworks = ["React","Fastify"];
+class Skills extends Developer {
+  languages = ["JavaScript", "TypeScript"];
+  libraries = ["React","appStack","Zod","Socket.io","Prisma"];
+  frameworks = ["Fastify","Bootstrap","Tailwind CSS"];
+  orm = ["Prisma"];
+  databases = ["SQL Server"];
 }
 ```
